@@ -1,4 +1,21 @@
-site_name: Netomato SRL
+site_name: "" #Netomat SRL
 site_url: https://www.netomat.io/
 theme:
   name: material
+  logo: assets/netomat_MainLogo.png
+
+nav:
+  - Home: index.md
+  - Blog: https://blog.netomat.io
+  - Services:
+      - Overview: services/index.md
+      - Architecture & Design: services/architecture_design.md
+      - Engineering: services/engineering.md
+      - Testing: services/testing.md
+  - About: about.md
+  - Imprint: imprint.md
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
