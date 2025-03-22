@@ -2,7 +2,7 @@
 #requirement file
 # pip freeze > requirements.txt
 
-site_name: "" #Netomat SRL
+site_name: Netomat SRL
 site_url: https://www.netomat.io/
 theme:
   name: material
