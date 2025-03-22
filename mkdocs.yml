@@ -3,7 +3,7 @@ site_url: https://www.netomat.io/
 theme:
   name: material
   logo: assets/netomat_MainLogo.png
-
+  
 nav:
   - Home: index.md
   - Blog: https://blog.netomat.io
@@ -13,9 +13,18 @@ nav:
       - Engineering: services/engineering.md
       - Testing: services/testing.md
   - About: about.md
-  - Imprint: imprint.md
+  - Company Details: imprint.md
 
 plugins:
   - search
+  - encriptmail:
+       placeholderAt: (Q)
+       placeholderDot: (P)
   - git-revision-date-localized:
       enable_creation_date: true
+
+copyright: >
+  Copyright &copy; 2024 -> Netomat SRL
+
+# extra:
+  # generator: false

@@ -1,8 +1,8 @@
 ---
-title: Imprint
+title: Company Details
 ---
 
-# Imprint
+# Company Details
 
 ## Company Information
 
@@ -13,8 +13,8 @@ title: Imprint
 - **Share Capital**: 200 RON  
 - **Legal Representative**: Marcel Reuter  
 - **Contact Details**:
-    - **Email**: website@netomat.io  
-    - **Phone**: +40316311431  
+    - **Email**: [Email-Link](mailto:website@netomat.io)  
+    - **Phone**: Plus 40 316311431  
 
 ## Data Protection Information (GDPR Compliance)
 
@@ -29,7 +29,4 @@ title: Imprint
 
 ---
 
-_Last updated: {{ build_date_utc | date('%B %d, %Y') }}_
-{% block footer %}
-© {{ build_date_utc.strftime('%Y') }}
-{% endblock %}
+<!-- _Last updated: {{ build_date_utc | date('%B %d, %Y') }}_ -->
