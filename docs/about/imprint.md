@@ -24,6 +24,8 @@ title: Company Details
 
 ## Disclaimers & Liability
 
+- The content on this entirely website, blog posts, are entirely the author’s opinions.
+    There is no guarantee that any of the posts are accurate. No certainty is provided (other than the author's professional integrity) that any statement in a post is 100% correct. Even if a statement happens to be accurate, its accuracy may be limited to a specific NOS version running from a certain manufacturer.
 - The company is not responsible for external links and their content.  
 - All content on this site is copyrighted and may not be reproduced without permission.  
 

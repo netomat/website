@@ -1,8 +1,8 @@
-# When installind addtional plugins or extenstions dont forget tp put them into
+# When installind addtional plugins or extenstions dont forget to put them into
 #requirement file
 # pip freeze > requirements.txt
 
-site_name: Netomat SRL
+site_name: "" #Netomat SRL
 site_url: https://www.netomat.io/
 theme:
   name: material
@@ -16,8 +16,11 @@ nav:
       - Architecture & Design: services/architecture_design.md
       - Engineering: services/engineering.md
       - Testing: services/testing.md
-  - About: about.md
-  - Company Details: imprint.md
+  - About: 
+    - About: about/about.md
+    - Company Details: about/imprint.md
+    - Skills: about/skills.md
+    - Projects: about/projects.md
 
 plugins:
   - search
