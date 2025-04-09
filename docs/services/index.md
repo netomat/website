@@ -1,26 +1,22 @@
 <!-- # Our Services -->
-# Our services - Overview 
+# Our services
 
 We are providing services in the following fields
 
-* Networks
+* Consulting / Engineering  
+  Most of our customer projects last from several months to several years and involve a combination of our services.
 
-    WAN/LAN
-    Datacenter
-    
-    
-    Enterprise
-    Small ISP
-    Large ISP / Telco
+For example, when creating a [network architecture](architecture_design.md), [testing](testing.md) is always necessary to check immediately whether the respective feature works according to the specifications.
+and how different vendors implemented the same RFC   
 
-* [Architecture & Design](https://www.netomat.io/services/architecture_design/)
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Our expertise and experience are in the following areas:
 
-## Project layout
+- Network LAN/WAN
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Data centre
+
+- VPN SD-WAN
+
+- Creating of HLD/LLD
+
+- SW Revision testing
