@@ -1,8 +1,5 @@
 
-
-| 
-## Technology Experience | 
- | 
+## Technology Experience |
 
 |  Network design   | 
 |  Creation of HLD /LLD   | 

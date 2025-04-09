@@ -1,9 +1,6 @@
 ---
 title: Company Details
 ---
-
-# Company Details
-
 ## Company Information
 
 - **Company Name**: Netomat SRL  
@@ -13,8 +10,8 @@ title: Company Details
 - **Share Capital**: 200 RON  
 - **Legal Representative**: Marcel Reuter  
 - **Contact Details**:
-    - **Email**: [Email-Link](mailto:website@netomat.io)  
-    - **Phone**: Plus 40 316311431  
+  - **Email**: [Email-Link](mailto:website@netomat.io)  
+  - **Phone**: Plus 40 316311431  
 
 ## Data Protection Information (GDPR Compliance)
 
@@ -30,5 +27,4 @@ title: Company Details
 - All content on this site is copyrighted and may not be reproduced without permission.  
 
 ---
-
 <!-- _Last updated: {{ build_date_utc | date('%B %d, %Y') }}_ -->
