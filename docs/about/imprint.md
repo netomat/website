@@ -5,13 +5,13 @@ title: Company Details
 
 - **Company Name**: Netomat LLC  
 - **Registered Address**: 8000 Centre Park Dr Suite 130 Austin Texas 78754 USA
-#- **Trade Register Number**: J2024032726002  
-#- **VAT Number (if applicable)**: RO50731589  
+<!-- - **Trade Register Number**: J2024032726002  
+- **VAT Number (if applicable)**: RO50731589   -->
 - **Share Capital**: 100 USD  
 - **Legal Representative**: Marcel Reuter  
 - **Contact Details**:
   - **Email**: [Email-Link](mailto:website@netomat.io)  
-#  - **Phone**: Plus 40 316311431  
+  <!-- - **Phone**: Plus 40 316311431   -->
 
 ## Data Protection Information (GDPR Compliance)
 
