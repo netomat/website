@@ -1,6 +1,6 @@
 # Marcel Reuter, CCIE #41476  
 
-![Marcel](../../assets/Marcel-MR.png){ .resize }
+![Marcel](../../assets/images/Marcel-MR.png){ .resize }
 
 
 is an independent network architect at Netomat.  
