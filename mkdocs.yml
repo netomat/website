@@ -21,6 +21,10 @@ nav:
     - Company Details: about/imprint.md
     # - Skills: about/me/skills.md
     # - Projects: about/me/projects.md
+  - Blog:
+      - Blog: blog/index.md
+      #- Archive: blog/archive.md
+  
 
 plugins:
   - search
@@ -29,9 +33,10 @@ plugins:
        placeholderDot: (P)
   - git-revision-date-localized:
       enable_creation_date: true
+  - blog
 
 copyright: >
-  Copyright &copy; 2024 -> Netomat SRL
+  Copyright &copy; 2024 -> Netomat LLC
 
 # extra:
   # generator: false
