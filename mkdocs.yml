@@ -20,9 +20,10 @@ nav:
     - Company Details: about/imprint.md
     # - Skills: about/me/skills.md
     # - Projects: about/me/projects.md
-  - Blog:
-      - Blog: blog/index.md
-      #- Archive: blog/archive.md
+  - Blog: https://blog.netomat.io
+  # - Blog:
+  #     - Blog: blog/index.md
+  #     #- Archive: blog/archive.md
   
 
 plugins:
@@ -32,7 +33,7 @@ plugins:
        placeholderDot: (P)
   - git-revision-date-localized:
       enable_creation_date: true
-  - blog
+  # - blog
 
 copyright: >
   Copyright &copy; 2024 -> Netomat LLC
