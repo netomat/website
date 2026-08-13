@@ -1,0 +1,71 @@
+baseURL = "https://www.netomat.io/"
+locale = "en-us"
+title = "Netomat"
+theme = ["netomat", "PaperMod"]
+enableRobotsTXT = true
+timeZone = "America/Chicago"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = "production"
+  description = "Netomat LLC - independent network consulting: architecture, engineering, testing"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = false
+  hidemeta = true
+  hideSummary = true
+
+  [params.label]
+    text = "netomat"
+    icon = "/images/netomat_logo_gemini1b.png"
+    iconHeight = 30
+
+  [params.assets]
+    favicon = "/favicon/favicon.ico"
+    favicon16x16 = "/favicon/favicon-96x96.png"
+    favicon32x32 = "/favicon/favicon-96x96.png"
+    apple_touch_icon = "/favicon/apple-touch-icon.png"
+
+  [params.homeInfoParams]
+    Title = "Netomat LLC"
+    Content = """
+Welcome to our Website of Netomat LLC.
+We are an independent network consulting firm based in Austin, Texas.
+Our clients are mainly based in Europe.
+
+You have a network project and need some skills — we are here to help you.
+"""
+
+[menus]
+  [[menus.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menus.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 20
+  [[menus.main]]
+    name = "About me"
+    url = "/about/me/"
+    weight = 30
+  [[menus.main]]
+    name = "Company Details"
+    url = "/about/imprint/"
+    weight = 40
+  [[menus.main]]
+    name = "Blog"
+    url = "https://blog.netomat.io"
+    weight = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
