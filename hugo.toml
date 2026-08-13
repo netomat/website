@@ -23,9 +23,10 @@ timeZone = "America/Chicago"
   hideSummary = true
 
   [params.label]
-    text = "netomat"
-    icon = "/images/netomat_logo_gemini1b.png"
-    iconHeight = 30
+    # wordmark contains the name; a single space suppresses the title fallback
+    text = " "
+    icon = "/images/netomat-logo.svg"
+    iconHeight = 26
 
   [params.assets]
     favicon = "/favicon/favicon.ico"
