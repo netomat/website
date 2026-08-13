@@ -10,6 +10,8 @@ timeZone = "America/Chicago"
 
 [params]
   env = "production"
+  # homepage lists only these sections; keeps /about/* pages out of the home list
+  mainSections = ["services"]
   description = "Netomat LLC - independent network consulting: architecture, engineering, testing"
   defaultTheme = "auto"
   disableThemeToggle = false
@@ -33,6 +35,9 @@ timeZone = "America/Chicago"
     favicon16x16 = "/favicon/favicon-96x96.png"
     favicon32x32 = "/favicon/favicon-96x96.png"
     apple_touch_icon = "/favicon/apple-touch-icon.png"
+
+  [params.footer]
+    text = "[Imprint](/about/imprint/)"
 
   [params.homeInfoParams]
     Title = "Netomat LLC"
