@@ -6,7 +6,7 @@ Hugo site using [PaperMod](https://github.com/adityatelange/hugo-PaperMod) with 
 ## Local development
 
 ```bash
-git clone --recurse-submodules git@gitlab.com:netomat/website.git
+git clone --recurse-submodules git@github.com:netomat/website.git
 hugo server -D          # serve with drafts at http://localhost:1313
 hugo                    # production build into public/
 ```
@@ -27,4 +27,4 @@ Never override layouts locally — visual changes belong in the netomat-theme re
 - Environment variable: `HUGO_VERSION = 0.165.0`
 
 Submodules are cloned automatically (netomat-theme resolves relative to this repo's
-GitLab namespace, so it must be pushed to `gitlab.com/netomat/netomat-theme`).
+GitHub owner, so it must exist at `github.com/netomat/netomat-theme`).
